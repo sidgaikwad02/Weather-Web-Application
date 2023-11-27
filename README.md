@@ -5,4 +5,4 @@ Screenshot
 The API provider: http://www.OpenWeatherMap.org
 
 Live demo
-Javascript Weather App
+ Weather Application!
